@@ -1,0 +1,49 @@
+
+body{
+    background-color: peachpuff;
+}
+h1
+
+{text-align: center;
+}
+.content{
+    border: 3px white solid;
+    width: 60%;
+    float: left;
+    margin-top: 60px;
+    margin-left:10px;
+    background-color:rgb(202, 209, 214);
+    height:20em;
+    padding: 5px;
+text-justify: auto;
+font-size: x-large;
+border-radius:40px;
+font-family:'Times New Roman', Times, serif;}
+.content p{
+    margin-top: 40px;
+}
+.img{
+    margin-top: 50px;
+    float: right;
+    border: 2px solid white;
+    width: 30%;
+}
+
+.you{
+    margin-top: 48%;
+  
+   margin-left: 20%;
+    padding-left: 0px;
+}
+.gridss{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+footer{
+    color: white;
+    background-color: black;
+    height: 2em;
+    margin-top: 30%;
+    }
+  footer h4
+  {text-align: center;}

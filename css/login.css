@@ -1,0 +1,53 @@
+.login
+{   
+   
+     border: 3px green solid;
+    margin-top: 6%;
+    margin-right: 2%;
+    padding:30px;
+    width: 22em;
+    margin-left: 38%;
+    height: 26em;
+    
+}
+h1{
+    text-align: center;
+  color: white;
+  margin-top: 30%;
+font-family: 'Times New Roman', Times, serif;}
+.login label
+    {height: 1.5em;
+        font-size: 20px;
+     
+    
+    }
+.login input
+{
+  width: 250px;
+   height: 2em; 
+}
+
+.login button
+{width: 100%;
+ height: 2em;
+ color: white;
+background-color:dodgerblue;
+border: 1px dodgerblue;}
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+footer{
+    color: white;
+    background-color: black;
+    height: 2em;
+    margin-top: 30%;
+  
+}
+footer h4
+{text-align:center;}
+
+ 
+
